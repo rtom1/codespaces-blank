@@ -2,6 +2,12 @@
 12
 100
 
+a = float(12)
+b = float(100)
+
+print(a)
+print(b)
+
 print(float(12))
 print(float(100))
 
