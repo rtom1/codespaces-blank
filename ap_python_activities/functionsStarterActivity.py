@@ -1,5 +1,5 @@
 # 1. In your own words, describe what a function is
-Bundled re-usable piece of code instructions 
+Bundle re-usable piece of code instructions 
 # 2. What is are function parameters and arguments and describe
 # the difference between the 2.
 A parameter is a variable in a function definition. It is a placeholder and hence does not have a concrete value. 
