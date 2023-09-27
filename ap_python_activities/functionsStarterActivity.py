@@ -1,4 +1,16 @@
-# 1. In your own words, describe what a function is
+# 1. In your own words, describe what a 
+    return t
+
+def division():
+if string == "/":
+    d = num1 / num2
+    print("division was performed on the two numbers ", num1, ' and ', num2)
+    return d
+
+# 5. Write a function that will output a message to a user, telling them
+# what class they have next after this one. this code should use a 
+# variable to pass a value into the parameter of a function. The variable should
+# be real, user data- not hard coded data.function is
 Bundle re-usable piece of code instructions 
 # 2. What is are function parameters and arguments and describe
 # the difference between the 2.
@@ -26,15 +38,3 @@ def multiplication():
 if string == "*":
     t = num1 * num2
     print("multiplication was performed on the two numbers ", num1, ' and ', num2)
-    return t
-
-def division():
-if string == "/":
-    d = num1 / num2
-    print("division was performed on the two numbers ", num1, ' and ', num2)
-    return d
-
-# 5. Write a function that will output a message to a user, telling them
-# what class they have next after this one. this code should use a 
-# variable to pass a value into the parameter of a function. The variable should
-# be real, user data- not hard coded data.
