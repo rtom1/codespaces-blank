@@ -21,20 +21,20 @@ favorite_atheletes = ['Jayson Tatum','AI','Kobe','KD','Jamal Crawford']
 
 # find and print index 3
 zoo_animals = ['wolf','giraffe','hippo','eagle','parrot']
-print(zoo_animals[2])
+print(zoo_animals[3])
 # find and print index 1
 sports_on_tv =['hockey','football','baseball','soccer','racing']
-print(sports_on_tv[3])
+print(sports_on_tv[1])
 # find and print index 0
 random_numbers = [10,100,12123, 1394, 1]
-print(random_numbers[1])
+print(random_numbers[0])
 
 # 3. Create a program that will only print out the odd numbers in this list. 
 
 # HINT- part of solving this is that you will need to use the range() function. 
 
 number_list= [1,2,3,4,5,6,7,8,9,10]
-print(number_list[[1]])
+print(number_list[1])
 # 4. You have been hired by amazon to be an engineer. Your first assignment is to fix their
 # shopping cart function. Your goal is to create a line of code that will
 # allow users to enter the item they want as a string value, and add it to the items that
@@ -45,3 +45,17 @@ print(number_list[[1]])
 
 shopping_cart = ['notebook', 'pens','tape','mousepad']
 shopping_cart.append('bookbag')
+
+
+
+list_of_items = ['apple','orange','book']
+
+apple_price = 1.00
+orange_price = 3.00
+book_price = 10.00
+
+list_of_items.append('pack of pens')
+
+newitem_price = 5.00
+
+print(list_of_items)
