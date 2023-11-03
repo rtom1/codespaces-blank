@@ -1,0 +1,14 @@
+1. Was it easy to find your classmates assignment?
+Yes, It was easy to find.
+
+2. Was their documentation clear and concise on what their program was designed to do?
+Yes
+
+3. Was their documnetion clear and concise on how to install their program?
+Not really
+
+4. When you installed and ran your classmates program, did it work as described?
+Somewhat
+
+5. Based on your experience using your classmate's program, as well as what you've learned about programming and documentation, are there any reccomendations that you would provide to your classmate?
+Your program should have a else statement for if the password is false. 
