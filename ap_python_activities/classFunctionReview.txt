@@ -8,7 +8,7 @@ Yes
 Not really
 
 4. When you installed and ran your classmates program, did it work as described?
-Somewhat
+Somewhat, it only prints for if the password is true but what if its false.
 
 5. Based on your experience using your classmate's program, as well as what you've learned about programming and documentation, are there any reccomendations that you would provide to your classmate?
 Your program should have a else statement for if the password is false. 
